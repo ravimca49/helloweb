@@ -6,6 +6,6 @@
 <title>Spring Page Redirection</title>
 </head>
 <body>
-<h2>Redirected Page</h2>
+<h2>Redirected Page ok</h2>
 </body>
 </html>
